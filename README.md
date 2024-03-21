@@ -1,5 +1,5 @@
 # A Tutorial on 5G Positioning - Code
-This repository contains the Matlab code of the simulations provided in the article: "A Tutorial on 5G Positioning", which is currently under review at IEEE Communication Surveys and Tutorials.
+This repository contains the Matlab code of the simulations provided in the article: "A Tutorial on 5G Positioning", which is currently under review at IEEE Communications Surveys and Tutorials.
 A preview of the paper can be found here: [A Tutorial on 5G Positioning](https://arxiv.org/abs/2311.10551).
 If you plan to use any portion of this code, please cite the corresponding paper.
 
