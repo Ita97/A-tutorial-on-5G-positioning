@@ -10,7 +10,7 @@ function rxWaveform = signal2Channel(downlink, TxPower, txWaveform, channel, sam
 
     for gNBIdx = 1:numgNBs
         rx{gNBIdx}=zeros(length(txWaveform{gNBIdx}) + maxChDelay,numRxAnt);
-        channel{gNBIdx}.ChannelFiltering = false;
+        channel{gNBIdx}.ChannelFiltering = true;
         [pathGains, ~] = channel{gNBIdx}();
         pg = permute(pathGains,[2 1 3 4]); % first dimension is the number of paths
 
