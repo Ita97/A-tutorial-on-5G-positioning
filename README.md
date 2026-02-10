@@ -6,7 +6,9 @@ If you plan to use any portion of this code, please cite the corresponding paper
 
 Since we cannot provide the 3D indoor rendering, the code contained in this repository covers only the outdoor scenario provided in the tutorial (and shown below).
 
-<center> <img src="https://github.com/Ita97/5G-Tutorial-Code/assets/28793450/70cfa8bf-3fd0-497f-8d25-b7b02f40dc0d"> </center>
+<center> <img width="500" height="400" src="https://github.com/Ita97/5G-Tutorial-Code/assets/28793450/70cfa8bf-3fd0-497f-8d25-b7b02f40dc0d">
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/e86ab636-27ce-45ef-856d-f90e6728f2dd" />
+</center>
 
 
 ## Matlab Packages needed:
